@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Spaghetti code
 * Smelly code
+* the other stuff
